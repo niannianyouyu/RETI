@@ -1,4 +1,4 @@
-%% LIVE
+%% Feature extraction on images of the entire LIVE database
 tic;
 clear
 addpath data;

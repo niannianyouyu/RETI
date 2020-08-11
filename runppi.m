@@ -1,4 +1,4 @@
-%% PPI
+%% Feature extraction on images of the entire PP database
 
 clear
 tic

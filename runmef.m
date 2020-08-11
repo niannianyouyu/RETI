@@ -1,4 +1,4 @@
-%% MEF
+%% Feature extraction on images of the entire MEF database
 
 clear
 tic

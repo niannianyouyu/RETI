@@ -49,7 +49,7 @@ pred_mos = pred_mos_map';
 
 T_DATA=[ test_y pred_mos];
 
-PLCC  = corr(T_DATA(:,1), T_DATA(:,2), 'type', 'Pearson');
+[RMSE PLCC] = calucc(T_DATA);
 SROCC = corr(T_DATA(:,1), T_DATA(:,2), 'type', 'spearman');
 KROCC = corr(T_DATA(:,1), T_DATA(:,2), 'type', 'kendall');
 end

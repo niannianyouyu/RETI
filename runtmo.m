@@ -1,4 +1,4 @@
-%% TMO
+%% Feature extraction on images of the entire TMO database
 
 clear
 addpath data;

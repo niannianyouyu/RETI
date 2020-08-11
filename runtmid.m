@@ -1,5 +1,5 @@
 
-
+%% Feature extraction on images of the entire database
 
 clear,clc;
 addpath data;
