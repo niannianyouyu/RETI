@@ -5,6 +5,9 @@ A new method for TMI assessment
 Author  : Yang Shen  
 Version : 1.0
 
+Usage :
+Run the "run*.m" to obtain the results of different databases.
+
 This program uses LibSVM package.
 
 Chih-Chung Chang and Chih-Jen Lin, LIBSVM : a library for support vector machines. 
